@@ -1,0 +1,12 @@
+[submodule "BitTorrent"]
+	path = BitTorrent
+	url = https://github.com/navidakbari123/BitTorrent.git
+[submodule "ProxyServer"]
+	path = ProxyServer
+	url = https://github.com/navidakbari123/ProxyServer.git
+[submodule "TCPOverUDP"]
+	path = TCPOverUDP
+	url = https://github.com/navidakbari123/TCPOverUDP.git
+[submodule "VirtualNetworkRouting"]
+	path = VirtualNetworkRouting
+	url = https://github.com/navidakbari123/VirtualNetworkRouting.git
