@@ -1,6 +1,6 @@
 [submodule "BitTorrent"]
 	path = BitTorrent
-	url = https://github.com/navidakbari123/BitTorrent.git
+	url = https://github.com/navid-ak/BitTorrent.git
 [submodule "ProxyServer"]
 	path = ProxyServer
 	url = https://github.com/navidakbari123/ProxyServer.git
